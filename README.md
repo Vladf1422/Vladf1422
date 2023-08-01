@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vladf1422
 - 👀 I’m interested in ... software development, mathematics, and topics that deal incredible amounts of pain.
-- 🌱 I’m currently learning ... something...
+- 🌱 I’m currently learning ... computer science
 - 💞️ I’m looking to collaborate on ... open source software and other related projects.
 
 <!---
